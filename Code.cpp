@@ -77,9 +77,11 @@ int main() {
 //////Note: Make INPUT and OUTPUT files (in txt form) in your IDE
 
 void solve() {
-////////////////////////Code Starts Here/////////////////////////////////////////////////
+  //Code Starts Here//
 
 
+  
+  
 }
   
  
@@ -87,4 +89,4 @@ void solve() {
  
  
  
-}
+
