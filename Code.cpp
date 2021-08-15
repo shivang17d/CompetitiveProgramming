@@ -74,7 +74,7 @@ int main() {
 
 
 //////Note: use  debug(variable_name)  in solve Function while debugging
-//////Note: Make INPUT and OUTPUT files (in txt form) in your IDE
+//////Note: Make INPUT , OUTPUT , and ERROR files (in txt form) in your IDE
 
 void solve() {
   //Code Starts Here//
