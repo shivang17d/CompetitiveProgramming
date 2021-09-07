@@ -1,15 +1,8 @@
-/* ______________________________________________________________________
-  |                                                                      |
-  |                 SHIVANG GUPTA ---> THE JUNIOR STRIVER                |
-  |______________________________________________________________________|
- 
-*/
- 
  
 #include<bits/stdc++.h>
  
 using namespace std;
- 
+
 #define fastio() ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
 #define MOD 1000000007
 #define MOD1 998244353
